@@ -1,2 +1,88 @@
-# Exalt-Fitness
-A fitness theme based website for Exalt Aesthetics firm. It mainly focuses on educating people about fitness and skin aesthetics, providing them tactics and personalized training to transform their lives.
+# Exalt Fitness
+
+## GitHub Host Link - https://prabhav25.github.io/Exalt-Fitness/
+
+∗ Deployed a fully functional and responsive fitness theme-based
+website for Exalt Fitness.
+∗ It mainly focuses on educating people about fitness and skin aesthetics, providing them with tactics and personalized training to
+transform their lives.
+∗ Tech stack: Design, HTML/CSS, JavaScript, React.js, Smtp.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
